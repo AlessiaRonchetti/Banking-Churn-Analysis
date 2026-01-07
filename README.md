@@ -44,10 +44,10 @@ Il flusso di lavoro segue lo standard **KDD** (Knowledge Discovery in Databases)
 
 L'analisi ha isolato **4 profili strategici** di clienti, confermando il K-Means come l'algoritmo più efficace per questo business case:
 
-**Cluster 3 - "Ghost Customers" (Rischio Critico):** Clienti con saldo elevato (~104k €) ma totalmente inattivi. Presentano un tasso di churn del **32%**. Richiedono azioni di ri-ingaggio proattivo immediato.
-**Cluster 2 - "Active High-Balance" (Basso Rischio):** Clienti "Premium": alto valore e molto attivi. Strategia consigliata: mantenimento e servizi prioritari.
-**Cluster 0 - "Integrated/Loyal" (Rischio Minimo):** Clienti radicati con un alto numero di prodotti bancari (media 2.15). Strategia consigliata: programmi fedeltà.
-**Cluster 1 - "Standard No-Card" (Rischio Medio):** Profilo medio, caratterizzato principalmente dall'assenza di carta di credito. Strategia consigliata: campagne di Cross-selling.
+*  **Cluster 3 - "Ghost Customers" (Rischio Critico):** Clienti con saldo elevato (~104k €) ma totalmente inattivi. Presentano un tasso di churn del **32%**. Richiedono azioni di ri-ingaggio proattivo immediato.
+*  **Cluster 2 - "Active High-Balance" (Basso Rischio):** Clienti "Premium": alto valore e molto attivi. Strategia consigliata: mantenimento e servizi prioritari.
+*  **Cluster 0 - "Integrated/Loyal" (Rischio Minimo):** Clienti radicati con un alto numero di prodotti bancari (media 2.15). Strategia consigliata: programmi fedeltà.
+*  **Cluster 1 - "Standard No-Card" (Rischio Medio):** Profilo medio, caratterizzato principalmente dall'assenza di carta di credito. Strategia consigliata: campagne di Cross-selling.
 
 ## 💻 Tecnologie Utilizzate
 
