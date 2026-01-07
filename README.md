@@ -47,8 +47,6 @@ Il flusso di lavoro segue un approccio strutturato KDD (Knowledge Discovery in D
 * Selezione del numero ottimale di cluster () tramite la triangolazione di tre metriche: **Elbow Method**, **Silhouette Score** e **Davies-Bouldin Index**.
 
 
-* Convergenza trovata a ****.
-
 
 4. **Analisi Comparativa:**
 
